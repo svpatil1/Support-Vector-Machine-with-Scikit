@@ -1,6 +1,10 @@
 # Support-Vector-Machine-with-Scikit
 
-Applying SVM model to the Iris data in scikit library, I got the following result after evaluating,
+###### Goal: 
+
+To apply SVM model to the Iris data in scikit library.
+
+###### Results:
 
 SVM's Classification report shows,
 
